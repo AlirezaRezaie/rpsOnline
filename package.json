@@ -1,0 +1,11 @@
+{
+  "name": "rpsonline",
+  "version": "1.0.0",
+  "description": "an rock,paper,scissors game",
+  "main": "index.js",
+  "scripts": {
+    "test": "app.js"
+  },
+  "author": "Minrva",
+  "license": "ISC"
+}
